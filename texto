@@ -1,0 +1,6 @@
+Se creo un sistema con la capacidad de gestionar clientes, servicion y reservas, donde se utilizo 
+una programacion orientada a objetos, sin tener una base de datos, donde se utilizo clases abstractas 
+con el fin de definir comportamientos comunes. donde los datos de los clientes se mantienen protegidos
+a traves de atributos privados y validaciones, ademas, los erroes se controlan con excepciones (try/except/finally)
+evitando asi que el sistema llegue a detenerse y en donde los errores se registran en un archivo de logs,
+asi mismo el sistema seguira funcionando incluso ante errores graves.
